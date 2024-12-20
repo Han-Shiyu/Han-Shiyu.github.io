@@ -12,7 +12,7 @@ title                    : "Han Shiyu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : "https://han-shiyu.github.io"
+url                      : "https://Han-Shiyu.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Han-Shiyu/Han-Shiyu.github.io"
 
