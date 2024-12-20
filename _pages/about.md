@@ -10,9 +10,9 @@ redirect_from:
 I'm a first-year master's degree student from School of Management,Zhengzhou University.
 My research interests include machine learning.deeping learning and data mining.
 
-I am fortunate to be advised by Prof.TongNiu from School of Mangemen,Zhengzhou University.
+I am fortunate to be advised by Prof.TongNiu from School of Mangement,Zhengzhou University.
 
-Email:hanshiyu@gs.zzu,edu.cn
+Email:hanshiyu@gs.zzu.edu.cn
 
 
 
